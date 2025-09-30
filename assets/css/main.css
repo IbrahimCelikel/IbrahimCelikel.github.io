@@ -1754,13 +1754,13 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.image.avatar32 {
+		.image.avatar {
 			width: 32px;
 			height: 32px;
 			background: #f00;
 		}
 
-			.image.avatar32 img {
+			.image.avatar img {
 				width: 32px;
 				height: 32px;
 			}
